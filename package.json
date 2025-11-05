@@ -1,0 +1,28 @@
+{
+  "name": "node-learn-ecommerce-backend",
+  "version": "1.0.0",
+  "description": "A learning path for Node.js and Express.js - Building an Ecommerce Backend",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "ecommerce",
+    "backend",
+    "learning",
+    "tutorial"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
