@@ -1,6 +1,8 @@
-# Node.js to Express.js Learning Path - Ecommerce Backend
+# Node.js & Express.js Learning Path - Ecommerce Backend
 
 Welcome! This repository is designed to take you from zero to building a complete ecommerce backend using Node.js and Express.js.
+
+Start by forking the repository, remember to star the repo if you find this helpful!!!!!!
 
 ## Learning Path Overview
 
@@ -181,6 +183,7 @@ Found an error or want to improve this course? Feel free to:
 
 This project is open source and available under the [MIT License](./LICENSE).
 n
+
 ---
 
 **Ready to start?** Navigate to `step-01-intro-nodejs/` and begin your Node.js journey!
